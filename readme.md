@@ -2,7 +2,7 @@
 #PORTAL SISTEM IT RSUII
 
 ##Preview
-[![vOUoNA.png](https://b.imge.to/2019/12/18/vOUoNA.png)](https://imge.to/i/vOUoNA)
+[![vOUoNA.md.png](https://b.imge.to/2019/12/18/vOUoNA.md.png)](https://imge.to/i/vOUoNA)
 
 
 Thank you for using our template!
